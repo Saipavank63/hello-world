@@ -20,6 +20,6 @@ print("What I Love")
 📫 Get in Touch
 <a href="https://www.linkedin.com/in/saipavank/"> LinkedIn! </a>
 
-<a href="https://lavanyapasumarthi3.github.io/saipavankatineediPortfolio/"> Visit My Portfolio! </a>
+<a href="https://saipavank63.github.io/saipavankatineediPortfolio/"> Visit My Portfolio! </a>
 
 <a href="mailto: saipavank63@gmail.com"> Email Me! </a>
