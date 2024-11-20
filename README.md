@@ -1,5 +1,5 @@
 print("👋 Hello world, I'm Sai Pavan Katineedi! 🚀")
-<p> Welcome to my coding universe! I'm a passionate software developer with a hands-on experience in .NET full stack development, python programming and web development. </p>
+<p> Welcome to my coding universe! I'm a passionate software developer with a hands-on experience in full stack development, python .Net and web development. </p>
 
 Console.WriteLine("💼 Professional Background 💻")
 <p> With a solid foundation in .NET full stack development, I've woven together my skills in both front-end and back-end technologies to craft seamless web experiences. I find joy in translating creative designs into functional and user-friendly interfaces, while also ensuring the underlying architecture is robust and efficient. </p>
